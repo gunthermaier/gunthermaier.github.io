@@ -1,8 +1,10 @@
 {
-  "hash": "57cdaf5368c86c9cc3e1390a070f7835",
+  "hash": "15894bdf0007a997d7b6e8058b88c460",
   "result": {
-    "markdown": "---\ntitle: \"GfR-demo\"\nauthor: Gunther Maier\nformat: html\n---\n\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"GfR-demo\"\nauthor: Gunther Maier\nformat: html\n---\n\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\nI added this line for testing.\n",
+    "supporting": [
+      "demo_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
