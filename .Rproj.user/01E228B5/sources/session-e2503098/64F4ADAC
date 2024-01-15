@@ -3,7 +3,7 @@
     "path": "C:/Users/gmaier/OneDrive - modul.ac.at/Desktop/GfR 2024/demo/demo.qmd",
     "project_path": "demo.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1010444867",
     "contents": "",
     "dirty": false,
     "created": 1705308046092.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "286:233.3333282470703",
+        "rmdVisualModeLocation": "307:233.3333282470703",
         "cursorPosition": "10,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1705310914,
+    "lastKnownWriteTime": 1705311064,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1705310914356,
+    "last_content_update": 1705311064400,
     "read_only": false,
     "read_only_alternatives": []
 }
